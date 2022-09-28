@@ -1,7 +1,7 @@
 /* Les chaînes de caractères (Strings) */
 
 // On en a déjà utilisé !
-console.log("bonjour");
+console.log("bonjourOK");
 
 // Qu'est-ce qu'une chaîne de caractères ? Un caractère ?
 // @&é"'(§è!çà)-azertyuiop^$qsdfghjklmù`<wxcvbn,;:=#1234567890°_AZERTYUIOP¨*QSDFGHJKLM%£>WXCVBN?./+
